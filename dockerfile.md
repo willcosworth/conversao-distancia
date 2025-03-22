@@ -2,4 +2,4 @@
 
 A imagem do contêiner foi publicada no DockerHub e pode ser acessada através do seguinte link:
 
-    🔗 [Link da imagem no DockerHub] https://hub.docker.com/repository/docker/willcosworth/conversor-distancia/general
+    🔗 [Link da imagem no DockerHub] https://hub.docker.com/repository/docker/willcosworth/conversao-distancia/general
